@@ -54,4 +54,3 @@ Discuss problems that will arise and how they should be handled.
 Discuss the tradeoff of complexity in the code base and documentation
 vs the benefit to users.  Generally, proposed features should be of
 fairly broad interest.
-
