@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Create a feature request
+description: Create a fully-specified feature request
 title: ''
 labels: ''
 assignees: ''
