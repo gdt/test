@@ -14,7 +14,7 @@ thoroughly and follow the guidelines it expresses:
 https://github.com/bcpierce00/unison/wiki/Reporting-Bugs-and-Feature-Requests
 
 If your feature request is not fully formed, please post on
-unison-hackers@ instead.
+unison-users@ or unison-hackers@ instead.
 
 Pleaes delete the following dashed line and the text above it, leaving the
 statement that you have read the wiki page.
