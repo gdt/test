@@ -1,0 +1,4 @@
+# DEFECT template
+
+foo
+bar
